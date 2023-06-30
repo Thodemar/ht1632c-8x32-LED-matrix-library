@@ -1,5 +1,7 @@
 # ht1632c-8x32-LED-matrix-library
-Library for the ht1632c 8x32 LED matrixen. Uses hwlib for the control of the arduino pins.
+Library for the ht1632c 8x32 LED matrixen. The constructor allows for the use of 4 diffrent chip selects.
+
+Uses hwlib for the control of the arduino pins.
 
 
 # Tested
