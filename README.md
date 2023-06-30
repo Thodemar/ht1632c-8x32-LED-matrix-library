@@ -5,7 +5,7 @@ Uses hwlib for the control of the arduino pins.
 
 
 # Tested
-Has been tested on the Arduino Due using the bmptk : Bare Metal Programming Toolkit
+Has been tested on the Arduino Due using bmptk : Bare Metal Programming Toolkit
 
 # Why 
 This library has been made for the Individueel Propedeuse Assessment of the study HBO-ICT at the Hogeschool Utrecht
